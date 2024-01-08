@@ -1,0 +1,193 @@
+.banner{
+    background-image: url('../resources/Banner_Image.png');
+    background-repeat: no-repeat;
+    width: 1320px;
+    height: 600px;
+    margin: 50px  140px;
+    border-radius: 16px;
+    font-family: 'Merriweather', serif;
+
+}
+.banner-content{
+    padding: 177px 344px;
+}
+.barner-grating{
+    color: #FFF;
+    text-align: center;
+    font-size: 32px;
+    font-weight: 400;
+    word-wrap: break-word;
+}
+.barner-title{
+    color: #FFF;
+    text-align: center;
+    font-size: 72px;
+    font-weight: 900;
+    line-height: 95px;
+    word-wrap: break-word;
+}
+.container{
+    text-align: center;
+    font-family: inter;
+}
+.discount{
+    color: #FF0000;
+    font-size: 88px;
+    font-weight: 700;
+    padding-top: 120px;
+}
+.discount-1{
+    color: #FF0000;
+    font-size: 24px;
+    font-weight: 500;
+    margin-top: 48px;
+}
+.discount-2{
+    margin-top: 16px;
+    color: #070211;
+    font-size: 48px;
+    font-family: Inter;
+    font-weight: 700;
+    margin-bottom: 48px;
+}
+.img-new{
+    width: 802.9px;
+    height: 500px;
+}
+.banner-2{
+    background-image: url('../resources/Vectorrr.png');
+    background-repeat: no-repeat;
+    width: 1320px;
+    height: 600px;
+    margin: 50px  140px;
+    border-radius: 16px;
+    font-family: 'Merriweather', serif;
+    display: flex;
+}
+.welcome{
+    color: #FFF;
+    font-family: Merriweather;
+    font-size: 64px;
+    font-weight: 900;
+    line-height: 88px;
+    letter-spacing: 7.04px;
+    height: 176px;
+    width: 642px;
+    padding-top: 126px;
+    padding-left: 126px;
+}
+.welcome-discription{
+    color: rgba(255, 255, 255, 0.80);
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    height: 60px;
+    width: 697px;
+    padding-left: 126px;
+    padding-bottom: 214px;
+}
+.join{
+    color: #FFF;
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 700;
+    background-color: transparent;
+    border: none;
+
+}
+.btn{
+    margin-top: 48px;
+    margin: 58px;
+}
+.n-24{
+    display: flex;
+    width: 319.83px;
+    height: 464.662px;
+    padding: 68px 138px 67px 86px;
+    justify-content: center;
+    align-items: center;
+}
+.banner-3{
+    background-color: #ffe8e8;
+    width: 1320px;
+    height: 600px;
+    margin: 50px  140px;
+    border-radius: 16px;
+    font-family: Inter;
+}
+.banner-discription{
+    text-align: center;
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 56px;
+    padding-top:100px ;
+}
+.spcolor{
+    color: #FF0000;
+}
+.btn-join{
+    color: #FFF;
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: normal;
+    background-color: #FF0000;
+    padding: 16px 32px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    border-radius: 8px;
+    border: none;
+}
+.banner4{
+    text-align: center;
+}
+.background-img{
+    background-image: url('../resources/Rectangle\ 1.png'), url('../resources/Rectangle\ 2.png');
+    background-repeat: no-repeat;
+    background-position: top right, bottom left;
+    width: 1320px;
+    height: 661px;
+    margin: 50px  140px;
+    border-radius: 16px;
+
+}
+.banner4 > h3{
+    color: #070211;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: normal;
+}
+.banner4 > h2{
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-weight: 900;
+    line-height: normal;
+}
+.banner-4-discription{
+    color: rgba(7, 2, 17, 0.60);
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 32px;
+    width: 1068px;
+    height: 96px;
+    margin-right: 266px;
+    margin-left: 266px;
+}
+.img2{
+    width: 206.841px;
+    height: 206.841px;
+    margin-left: 
+}
+.img1{
+    height: 400px;
+    width: 500px;
+    margin-right: 143px;
+}
