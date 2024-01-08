@@ -153,6 +153,7 @@
     height: 661px;
     margin: 50px  140px;
     border-radius: 16px;
+    display: flex;
 
 }
 .banner4 > h3{
@@ -184,10 +185,39 @@
 .img2{
     width: 206.841px;
     height: 206.841px;
-    margin-left: 
+    margin-top: 150px;
+    margin-left: -120px;
 }
 .img1{
     height: 400px;
     width: 500px;
-    margin-right: 143px;
+    margin-right: 400px;
+    margin-top: 230px;
+}
+.banner5{
+    width: 1320px;
+    height: 600px;
+    margin: 50px  140px;
+    border-radius: 16px;
+}
+.banner5 > h3{
+    color: #F00;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    margin-top: 120px;
+}
+.banner5 > h2{
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-weight: 900;
+}
+.banner5 > p{
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+    width: 896px;
 }
